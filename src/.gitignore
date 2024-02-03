@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*/obj/Debug/net8.0
+*/obj
+*/bin
+/.vs
+*.csproj.user
+**obj
+**/bin
+*.user
+**/Properties/launchSettings.json
+**/packages
